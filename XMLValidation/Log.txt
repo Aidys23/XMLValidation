@@ -1,0 +1,28 @@
+﻿10.10.2019 19:52:10 : Application closed!
+
+10.10.2019 19:52:10 : Application closed!
+
+10.10.2019 19:54:09 : Application launched!
+10.10.2019 19:54:11 : Trying to validate C:\Users\aidys\source\repos\XMLValidation\XMLValidation\ED.xml
+10.10.2019 19:54:12 : ED.xml: Successfully validated 
+10.10.2019 19:54:29 : Application closed!
+
+10.10.2019 19:54:29 : Application closed!
+
+10.10.2019 19:55:05 : Application launched!
+10.10.2019 19:55:08 : Trying to validate C:\Users\aidys\source\repos\XMLValidation\XMLValidation\ED.xml
+10.10.2019 19:55:09 : ED.xml: Successfully validated 
+10.10.2019 19:55:17 : Application closed!
+
+10.10.2019 19:55:17 : Application closed!
+
+10.10.2019 19:56:25 : Application launched!
+10.10.2019 19:56:28 : Application closed!
+
+10.10.2019 19:56:28 : Application closed!
+
+10.10.2019 19:56:48 : Application launched!
+10.10.2019 19:56:51 : Application closed!
+
+10.10.2019 19:56:51 : Application closed!
+
